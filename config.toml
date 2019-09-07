@@ -1,10 +1,11 @@
 # hugo server --minify --themesDir ... --baseURL=http://0.0.0.0:1313/example
 
-baseURL = 'https://example.com/'
+baseURL = 'https://wastemobile.github.com/hugobook'
 title = 'Hugo Book'
 theme = 'book'
 disableKinds = ['taxonomy', 'taxonomyTerm']
 # themesDir = '../..'
+publishDir = "docs"
 
 # Book configuration
 disablePathToLower = true

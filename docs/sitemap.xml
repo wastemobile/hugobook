@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://wastemobile.github.com/hugobook/docs/introduction/</loc>
+    <lastmod>2019-09-07T23:07:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wastemobile.github.com/hugobook/docs/introduction/examples/with-toc/</loc>
+    <lastmod>2019-09-07T23:07:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wastemobile.github.com/hugobook/docs/more-examples/</loc>
+    <lastmod>2019-09-07T23:07:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wastemobile.github.com/hugobook/docs/introduction/examples/without-toc/</loc>
+    <lastmod>2019-09-07T23:07:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wastemobile.github.com/hugobook/docs/introduction/examples/shortcodes/</loc>
+    <lastmod>2019-09-07T23:07:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wastemobile.github.com/hugobook/posts/creating-a-new-theme/</loc>
+    <lastmod>2019-09-07T23:07:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wastemobile.github.com/hugobook/posts/migrate-from-jekyll/</loc>
+    <lastmod>2019-09-07T23:07:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wastemobile.github.com/hugobook/posts/</loc>
+    <lastmod>2019-09-07T23:07:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wastemobile.github.com/hugobook/posts/goisforlovers/</loc>
+    <lastmod>2019-09-07T23:07:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wastemobile.github.com/hugobook/posts/hugoisforlovers/</loc>
+    <lastmod>2019-09-07T23:07:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wastemobile.github.com/hugobook/docs/introduction/examples/</loc>
+    <lastmod>2019-09-07T23:07:12+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wastemobile.github.com/hugobook/docs/more-examples/advanced/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wastemobile.github.com/hugobook/docs/more-examples/client/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wastemobile.github.com/hugobook/docs/more-examples/hidden/</loc>
+    <lastmod>2019-09-07T23:07:12+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://wastemobile.github.com/hugobook/docs/more-examples/server/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://wastemobile.github.com/hugobook/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://wastemobile.github.com/hugobook/</loc>
+    <lastmod>2019-09-07T23:07:12+08:00</lastmod>
+  </url>
+  
+</urlset>
